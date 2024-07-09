@@ -1,4 +1,3 @@
-# DL_For_Beginners
 
 ## Introduction :
 
