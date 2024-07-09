@@ -6,6 +6,8 @@ In this repo , we intend to provide simple projects for those who want to start 
 
 🔴 We are still updating this repo, it's not completed yet!
 
+## Projects : 
+
 - **Satisfaction** :
 In this project, we aim to build a model using data related to passenger satisfaction with the services provided by airlines, which can predict the final opinion of passengers, i.e., satisfaction or dissatisfaction.
 
